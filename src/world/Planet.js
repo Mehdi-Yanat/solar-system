@@ -1,6 +1,6 @@
 import * as THREE from 'three'
-import SunVertex from '../Shaders/sun/vertex.glsl'
-import SunFragment from '../Shaders/sun/fragment.glsl'
+import SunVertex from '../shaders/sun/vertex.glsl'
+import SunFragment from '../shaders/sun/fragment.glsl'
 
 
 export default class Planet {
