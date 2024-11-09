@@ -3,7 +3,7 @@ import * as lil from "lil-gui"
 import Sizes from '../utils/Sizes'
 import Time from '../utils/Time'
 import Camera from './Camera'
-import World from '../World/Index'
+import World from '../world/Index'
 import Stats from 'stats.js';
 
 export default class Application {

@@ -1,6 +1,6 @@
 import * as THREE from 'three'
-import StarsVertex from '../Shaders/stars/vertex.glsl'
-import StarsFragment from '../Shaders/stars/fragment.glsl'
+import StarsVertex from '../shaders/stars/vertex.glsl'
+import StarsFragment from '../shaders/stars/fragment.glsl'
 
 
 export default class Galaxy {
