@@ -45,7 +45,7 @@ export default class World {
     }
 
     setLight() {
-        this.light = new THREE.PointLight(0xFDB813, 2, 100)
+        this.light = new THREE.PointLight(0xFDB813, 50, 10)
         this.light.position.set(0, 0, 0)
         this.container.add(this.light)
     }
